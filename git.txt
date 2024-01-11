@@ -1,0 +1,4 @@
+local file ----------Storage area--------repo
+-> git add statement
+-> git add .
+storage area ------git commit -m "Message"
